@@ -1,0 +1,72 @@
+[
+  {
+    "city": "London",
+    "temperature": 15.0,
+    "description": "Light rain",
+    "humidity": 81,
+    "windSpeed": 4.6
+  },
+  {
+    "city": "New York",
+    "temperature": 22.5,
+    "description": "Clear sky",
+    "humidity": 50,
+    "windSpeed": 3.1
+  },
+  {
+    "city": "Tokyo",
+    "temperature": 28.0,
+    "description": "Partly cloudy",
+    "humidity": 65,
+    "windSpeed": 5.5
+  },
+  {
+    "city": "Sydney",
+    "temperature": 18.0,
+    "description": "Overcast",
+    "humidity": 75,
+    "windSpeed": 2.3
+  },
+  {
+    "city": "Cairo",
+    "temperature": 35.0,
+    "description": "Sunny",
+    "humidity": 20,
+    "windSpeed": 7.0
+  },
+  {
+    "city": "Paris",
+    "temperature": 16.5,
+    "description": "Light rain",
+    "humidity": 80,
+    "windSpeed": 4.0
+  },
+  {
+    "city": "Moscow",
+    "temperature": 10.0,
+    "description": "Snow",
+    "humidity": 85,
+    "windSpeed": 3.0
+  },
+  {
+    "city": "Rio de Janeiro",
+    "temperature": 30.0,
+    "description": "Sunny",
+    "humidity": 60,
+    "windSpeed": 4.2
+  },
+  {
+    "city": "Toronto",
+    "temperature": 12.0,
+    "description": "Cloudy",
+    "humidity": 70,
+    "windSpeed": 3.5
+  },
+  {
+    "city": "Mumbai",
+    "temperature": 29.0,
+    "description": "Monsoon",
+    "humidity": 90,
+    "windSpeed": 6.0
+  }
+]
